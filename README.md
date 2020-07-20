@@ -6,4 +6,7 @@ in this repository recognize the case using VGG-like architecture with 2 strateg
    1. Multi-Class Classification - validation result with : Accuracy: 90.04%   | F1-Score: 88.10%   | Kappa: 86.16% | AUC: 99.16%
    2. Multi-Label Classification - validation result with : Accuracy: 89.65%   | F1-Score (Top-5): 50.17% | AUC: 80.12%
    
+![](https://github.com/hamdiibnizhar/ocular-disease-recognition-5k/blob/master/android-deployment/live_2.gif) 
+![](https://github.com/hamdiibnizhar/ocular-disease-recognition-5k/blob/master/android-deployment/rt_2.gif)
+
 the deployment in android is in [android-deployment](https://github.com/hamdiibnizhar/ocular-disease-recognition-5k/blob/master/android-deployment) folder
